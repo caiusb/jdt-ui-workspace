@@ -1,0 +1,15 @@
+[submodule "eclipse.jdt.core"]
+	path = eclipse.jdt.core
+	url = git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.git
+[submodule "eclipse.jdt.core.binaries"]
+	path = eclipse.jdt.core.binaries
+	url = git://git.eclipse.org/gitroot/jdt/eclipse.jdt.core.binaries.git
+[submodule "eclipse.jdt.ui"]
+	path = eclipse.jdt.ui
+	url = git://git.eclipse.org/gitroot/jdt/eclipse.jdt.ui.git
+[submodule "eclipse.platform.releng"]
+	path = eclipse.platform.releng
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.releng.git
+[submodule "eclipse.platform.text"]
+	path = eclipse.platform.text
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.text.git
